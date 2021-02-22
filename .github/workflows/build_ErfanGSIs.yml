@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V11.0.5.0.PCACNXM/miui_MI6_V11.0.5.0.PCACNXM_996ffd2660_9.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://dl.google.com/dl/android/aosp/walleye-ota-qq3a.200805.001-d5ccdd9c.zip
+  ROM_NAME: Pixel
   TZ: Asia/Shanghai
 
 jobs:

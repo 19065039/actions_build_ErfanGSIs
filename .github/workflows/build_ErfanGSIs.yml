@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://iso.mirrors.ustc.edu.cn/lineageos/full/nash/20210223/lineage-17.1-20210223-nightly-nash-signed.zip
-  ROM_NAME: Generic
+  ROM_URL: https://dl.google.com/dl/android/aosp/walleye-ota-pq3a.190801.002-93f4e151.zip
+  ROM_NAME: Pixel
   TZ: Asia/Shanghai
 
 jobs:

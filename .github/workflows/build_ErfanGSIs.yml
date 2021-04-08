@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://jaist.dl.sourceforge.net/project/crdroid/sagit/6.x/crDroidAndroid-10.0-20201219-sagit-v6.13.zip
+  ROM_URL: https://iweb.dl.sourceforge.net/project/crdroid/sagit/7.x/crDroidAndroid-11.0-20210122-sagit-v7.2.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 

@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://iweb.dl.sourceforge.net/project/crdroid/sagit/7.x/crDroidAndroid-11.0-20210122-sagit-v7.2.zip
+  ROM_URL: http://qdall01.baidupcs.com/file/f9efdc6f6t9c17c1b2e5ff34f49bbfa8?bkt=en-24c643f198a62f8895c93c87d166a46095a1a06a5bcbb35f5a4917cde7abe23666408c5aa325894b&fid=1581180948-250528-688344490875241&time=1617844753&sign=FDTAXUGERLQlBHSKfWaqi-DCb740ccc5511e5e8fedcff06b081203-iYf%2F7pycXyiRXIZmbOUItb9dbAg%3D&to=34&size=790594419&sta_dx=790594419&sta_cs=0&sta_ft=zip&sta_ct=0&sta_mt=0&fm2=MH%2CXian%2CAnywhere%2C%2Cguangdong%2Cct&ctime=1617844723&mtime=1617844723&resv0=-1&resv1=0&resv2=rlim&resv3=5&resv4=790594419&vuk=1581180948&iv=-2&htype=&randtype=&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-7cb0e3714675c44eb50c463f5e5dfcf76ce9a71ca1e3708da7d2b36845bbdecf0bdfbf68ef100325&sl=81264718&expires=8h&rt=pr&r=764154056&vbdid=3145867055&fin=crDroidAndroid-10.0-20201219-sagit-v6.13.zip&rtype=1&dp-logid=1647441142677110513&dp-callid=0.1&tsl=7&csl=58&fsl=-1&csign=kC%2B2W3%2BMMt%2FhwykXN%2F9nsRCR81g%3D&so=1&ut=8&uter=0&serv=0&uc=1559654663&ti=51d76b5cdb7a87d2ef4a684abb72c70cdce5d8b531e881ddc48031c257b32a4e&hflag=30&from_type=1&adg=c_208005d8498f9f9c2d7bc75457023dc6&reqlabel=250528_f_62f5b0703fa7dc0e77584d882173d661_-1_7954d91de3630b432baf4d36a902449f&by=themis
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 

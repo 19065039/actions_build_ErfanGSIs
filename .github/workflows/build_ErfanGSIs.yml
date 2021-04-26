@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://sourceforge.net/projects/nemesisteam/files/ROMs/Nash/ResurrectionRemix/Android-10/RROS-Q-8.6.7-20210330-nash-Official.zip/download
+  ROM_URL: https://www.mediafire.com/file/cgywzysgpci36nl/crDroidAndroid-10.0-20200302-nash-v6.3.zip/file
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 

@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mirrorbits.lineageos.org/full/nash/20210420/lineage-18.1-20210420-nightly-nash-signed.zip
+  ROM_URL: https://sourceforge.net/projects/nemesisteam/files/ROMs/Nash/ResurrectionRemix/Android-10/RROS-Q-8.6.7-20210330-nash-Official.zip/download
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 

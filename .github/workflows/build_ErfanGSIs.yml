@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://jaist.dl.sourceforge.net/project/crdroid/potter/6.x/crDroidAndroid-10.0-20201216-potter-v6.13.zip
+  ROM_URL: https://mirrorbits.lineageos.org/full/nash/20210330/lineage-17.1-20210330-nightly-nash-signed.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 

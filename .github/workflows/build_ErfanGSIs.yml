@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://dl.google.com/dl/android/aosp/walleye-ota-qq3a.200805.001-d5ccdd9c.zip
-  ROM_NAME: Generic
+  ROM_NAME: Pixel
   TZ: Asia/Shanghai
 
 jobs:

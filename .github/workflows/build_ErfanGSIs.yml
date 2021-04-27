@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://www.mediafire.com/file/cgywzysgpci36nl/crDroidAndroid-10.0-20200302-nash-v6.3.zip/file
+  ROM_URL: https://dl.google.com/dl/android/aosp/walleye-ota-qq3a.200805.001-d5ccdd9c.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
